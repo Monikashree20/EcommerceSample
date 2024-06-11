@@ -1,0 +1,73 @@
+body{
+    margin-left: 300px;
+    padding: 40px;
+}
+.straw{
+    width: 350px;
+    height: 200px;
+    padding: 20px;
+}
+.blue{
+    width: 350px;
+    height: 200px;
+    padding: 20px;
+   
+}
+.black{
+    
+    width: 350px;
+    height: 200px;
+    padding: 20px;
+    
+}
+.rasp{
+    width: 350px;
+    height: 200px;
+    padding: 20px;
+   
+}
+.s1{
+    float:left;
+   
+}
+h2{
+    display: block;
+    padding-left: 20px;
+}
+.blac1{
+    padding-left: 20px;
+}
+
+.berry1{
+    width: 50%;
+    padding: 70px;
+    padding-right: 170px;
+}
+.berry2{
+    width: 50%;
+    padding: 70px;
+    padding-right: 170px;
+}
+.berry3{
+    width: 50%;
+    padding: 70px;
+    padding-right: 170px;
+}
+.berry4{
+    width: 50%;
+    padding: 70px;
+    padding-right: 170px;
+}
+.ber1{
+    text-align: justify;
+    
+}
+.ber2{
+    text-align: justify;
+}
+.ber3{
+    text-align: justify;
+}
+.ber4{
+    text-align: justify;
+}
